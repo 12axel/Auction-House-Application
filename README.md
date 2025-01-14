@@ -2,8 +2,6 @@
 
 ---
 
-Additionally, we have also include our package.json file in case there are issues with navigating through our app on AWS and you wish to try running it locally.
-
 ## Use-Cases
 
 ### Customer Use-Cases
